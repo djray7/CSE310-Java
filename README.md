@@ -2,31 +2,27 @@
 
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+I choose this project to provide a somewhat straightforward oportunity to learn the basis of this language. 
 
-{Provide a description the software that you wrote to demonstrate the Java language.}
+The softare is just meant to keep track of expenses. It gives the user the option to view a summary of all their expenses, or a summary of each category individually
 
-{Describe your purpose for writing this software.}
+My thought of using this project is to just to keep track of expenses.
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.  Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/zXQTntSfjwI)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+I used VScode as the programing platform.
 
-{Describe the programming language that you used and any libraries.}
+This code was written in Java.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [W3School](https://www.w3schools.com/java/default.asp)
+* [Stack Overflow](https://stackoverflow.com/questions/1022880/accessing-a-variable-from-another-class)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* Find out why the lists won't update when called by the display class. Get that work.
+* Add in a warning to identify when a limit has been reached, so that the person doesn't spend over their budget. 
+* Perhaps switch the displays so that it immediately shows all the expenses one by one.
